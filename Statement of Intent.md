@@ -1,5 +1,5 @@
 # An Anarchist Cyberpunk Tabletop RPG? 
-** rough draft
+** rough draft **
 
 I'm planning on developing a cyberpunk RPG based on Anarchist philosophy and  practice. It will be based on the principles of community building, direct action and resistance and DIY culture. It will try to have low barriers of entry, be accessible and have safety tools to help deal with the potentially difficult subject matter. It will try to educate people about Anarchism directly and through references. Just now its in the notes and research stage (mostly playing similar games to see what they can bring). If anyone want to contribute it would help, I’m busy and inexperienced at game design. 
 
